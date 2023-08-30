@@ -1,1 +1,1 @@
-This Repository is about shell basics and bash navigation
+This Repo is about shell basics and bash scripting
