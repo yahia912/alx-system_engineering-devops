@@ -16,13 +16,13 @@ creates an empty file called hello.
 # 5-execute
 adds execute permission to the owner of the file hello
 
-#6-multiple_permissions
+# 6-multiple_permissions
 adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 
-#7-everybody
+# 7-everybody
 adds execution permission to the owner, the group owner and the other users, to the file hello
 
-#8-James_Bond
+# 8-James_Bond
 sets the permission to the file hello as follows:
 
   - Owner: no permission at all
@@ -32,8 +32,10 @@ sets the permission to the file hello as follows:
 #9-John_Doe
 sets the mode of the file hello to this:
 
-''' -rwxr-x-wx '''
+'''
+-rwxr-x-wx
+'''
 
-#10-mirror_permissions
+# 10-mirror_permissions
 
-#11-directories_permissions
+# 11-directories_permissions
